@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Hesap Makinesi</string>
+
+    <string name="bir">1</string>
+    <string name="iki">2</string>
+    <string name="üç">3</string>
+    <string name="dört">4</string>
+    <string name="beş">5</string>
+    <string name="altı">6</string>
+    <string name="yedi">7</string>
+    <string name="sekiz">8</string>
+    <string name="dokuz">9</string>
+    <string name="toplama">+</string>
+    <string name="çıkarma">-</string>
+    <string name="çarpma">x</string>
+    <string name="bölme">/</string>
+    <string name="yüzde">%</string>
+    <string name="ac">AC</string>
+    <string name="artıeksi">+/-</string>
+    <string name="sıfır">0</string>
+    <string name="eşittir">=</string>
+    <string name="nokta">.</string>
+</resources>

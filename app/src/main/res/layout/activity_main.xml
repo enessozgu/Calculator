@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@color/siyah">
+
+        <Button
+            android:id="@+id/button0"
+            android:layout_width="190dp"
+            android:layout_height="90dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="13dp"
+            android:layout_marginTop="614dp"
+            android:background="@drawable/custom"
+            android:gravity="start"
+            android:paddingStart="25dp"
+            android:paddingTop="16dp"
+            android:text="@string/sıfır"
+            android:textColor="@color/white"
+            android:textSize="40sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="14dp"
+            android:layout_marginTop="515dp"
+            android:background="@drawable/custom"
+            android:text="@string/bir"
+            android:textColor="@color/white"
+            android:textSize="40sp" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="114dp"
+            android:layout_marginTop="515dp"
+            android:background="@drawable/custom"
+            android:text="@string/iki"
+            android:textColor="@color/white"
+            android:textSize="40sp" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="214dp"
+            android:layout_marginTop="515dp"
+            android:background="@drawable/custom"
+            android:text="@string/üç"
+            android:textColor="@color/white"
+            android:textSize="40sp" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="14dp"
+            android:layout_marginTop="415dp"
+            android:background="@drawable/custom"
+            android:text="@string/dört"
+            android:textColor="@color/white"
+            android:textSize="40sp" />
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="114dp"
+            android:layout_marginTop="415dp"
+            android:background="@drawable/custom"
+            android:text="@string/beş"
+            android:textColor="@color/white"
+            android:textSize="40sp" />
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="214dp"
+            android:layout_marginTop="415dp"
+            android:background="@drawable/custom"
+            android:text="@string/altı"
+            android:textColor="@color/white"
+            android:textSize="40sp" />
+
+        <Button
+            android:id="@+id/button7"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="14dp"
+            android:layout_marginTop="315dp"
+            android:background="@drawable/custom"
+            android:text="@string/yedi"
+            android:textColor="@color/white"
+            android:textSize="40sp" />
+
+
+        <Button
+            android:id="@+id/button8"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="114dp"
+            android:layout_marginTop="315dp"
+            android:background="@drawable/custom"
+            android:text="@string/sekiz"
+            android:textColor="@color/white"
+            android:textSize="40sp" />
+
+        <Button
+            android:id="@+id/button9"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="214dp"
+            android:layout_marginTop="315dp"
+            android:background="@drawable/custom"
+            android:text="@string/dokuz"
+            android:textColor="@color/white"
+            android:textSize="40sp" />
+
+
+        <Button
+            android:id="@+id/button10"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="14dp"
+            android:layout_marginTop="215dp"
+            android:background="@drawable/grim"
+            android:text="@string/ac"
+            android:textColor="@color/siyah"
+            android:textSize="40sp" />
+
+        <Button
+            android:id="@+id/button11"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="114dp"
+            android:layout_marginTop="215dp"
+            android:background="@drawable/grim"
+            android:text="@string/artıeksi"
+            android:textColor="@color/siyah"
+            android:textSize="40sp" />
+
+        <Button
+            android:id="@+id/yuzde"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="214dp"
+            android:layout_marginTop="215dp"
+            android:background="@drawable/grim"
+            android:text="@string/yüzde"
+            android:textColor="@color/siyah"
+            android:textSize="40sp" />
+
+        <Button
+            android:id="@+id/bolme"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="314dp"
+            android:layout_marginTop="215dp"
+            android:layout_marginEnd="8dp"
+            android:background="@drawable/ope"
+            android:text="@string/bölme"
+            android:textColor="@color/white"
+            android:textSize="40sp" />
+
+        <Button
+            android:id="@+id/carpma"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="314dp"
+            android:layout_marginTop="314dp"
+            android:layout_marginEnd="8dp"
+            android:background="@drawable/ope"
+            android:text="@string/çarpma"
+            android:textColor="@color/white"
+            android:textSize="40sp" />
+
+        <Button
+            android:id="@+id/cikarma"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="314dp"
+            android:layout_marginTop="415dp"
+            android:layout_marginEnd="8dp"
+            android:background="@drawable/ope"
+            android:text="@string/çıkarma"
+            android:textColor="@color/white"
+            android:textSize="40sp" />
+
+        <Button
+            android:id="@+id/toplam"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="314dp"
+            android:layout_marginTop="515dp"
+            android:layout_marginEnd="6dp"
+            android:background="@drawable/ope"
+            android:text="@string/toplama"
+            android:textColor="@color/white"
+            android:textSize="40sp" />
+
+
+        <Button
+            android:id="@+id/buttonvirg"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="214dp"
+            android:layout_marginTop="615dp"
+            android:background="@drawable/custom"
+            android:text="@string/nokta"
+            android:textColor="@color/white"
+            android:textSize="40sp" />
+
+
+        <Button
+            android:id="@+id/esittir"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="314dp"
+            android:layout_marginTop="615dp"
+            android:layout_marginEnd="8dp"
+            android:background="@drawable/ope"
+            android:text="@string/eşittir"
+            android:textColor="@color/white"
+            android:textSize="40sp" />
+
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="200dp">
+
+
+                <TextView
+                    android:id="@+id/sonuc"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginTop="99dp"
+                    android:layout_marginEnd="31dp"
+                    android:text="@string/sıfır"
+                    android:textColor="@color/white"
+                    android:textSize="70sp"
+                    tools:ignore="RelativeOverlap" />
+
+        </RelativeLayout>
+
+
+</RelativeLayout>
